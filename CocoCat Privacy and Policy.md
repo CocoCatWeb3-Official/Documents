@@ -45,10 +45,6 @@ Our app respects and protects the privacy of all users. When you use the chat fe
 
 4. **User Consent**: By using this feature, you acknowledge and agree that we process your files in accordance with this privacy policy.
 
-We commit to continuously evaluating and improving our security measures to protect your privacy and data security.
-
-
-
 
 
 ### YOUR RIGHTS WITH RESPECT TO THE PROCESSING OF PERSONAL DATA
