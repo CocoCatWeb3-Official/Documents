@@ -45,6 +45,17 @@ Our app respects and protects the privacy of all users. When you use the chat fe
 
 4. **User Consent**: By using this feature, you acknowledge and agree that we process your files in accordance with this privacy policy.
 
+### Privacy Policy - Image & Video Usage and Sharing 
+
+Our app respects and protects the privacy of all users. When you use the chat feature of our app, we provide a function to send images & videos, allowing you to select and share images & videos from your phone with your friends. Here is our privacy policy regarding this feature:
+
+1. **Images & Videos Collection and Use**: When you choose to send a images & videos using the chat feature, we access your phone's storage to retrieve the Images & Videos. We only collect images & videos when you actively choose and confirm to send them.
+
+2. **Images & Videos Sharing**: The images & videos you send will be directly transmitted to the chosen recipient. We do not use your images & videos for any other purposes, nor do we share them with any third parties.
+
+3. **Data Security**: We employ stringent security measures to protect your images & videos from unauthorized access, disclosure, use, alteration, or destruction.
+
+4. **User Consent**: By using this feature, you acknowledge and agree that we process your images & videos in accordance with this privacy policy.
 
 
 
